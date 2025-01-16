@@ -37,13 +37,6 @@ This is an InsureTech API built using NestJS, Sequelize, TypeScript, and Postgre
    cd insuretech-api
 
 
-
-
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## Project setup
 
 ```bash
